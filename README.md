@@ -1,3 +1,4 @@
+#Enhancing Fashion MNIST Classification with Hybrid Deep Learning Models
 In this project, I implemented and evaluated multiple deep learning models for classifying the Fashion MNIST dataset.
 
 Key Steps:
